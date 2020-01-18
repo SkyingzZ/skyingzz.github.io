@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://skyingzz.github.io/"/>
-  <updated>2020-01-18T14:06:51.486Z</updated>
+  <updated>2020-01-18T14:08:57.490Z</updated>
   <id>http://skyingzz.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://skyingzz.github.io/2020/01/18/camlejson/"/>
     <id>http://skyingzz.github.io/2020/01/18/camlejson/</id>
     <published>2020-01-18T14:02:36.000Z</published>
-    <updated>2020-01-18T14:06:51.486Z</updated>
+    <updated>2020-01-18T14:08:57.490Z</updated>
     
     <summary type="html">
     
@@ -35,7 +35,7 @@
     
     
     
-      <category term="json,c++,golang" scheme="http://skyingzz.github.io/tags/json-c-golang/"/>
+      <category term="json c++ golang" scheme="http://skyingzz.github.io/tags/json-c-golang/"/>
     
   </entry>
   
