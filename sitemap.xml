@@ -2,56 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/links/index.html</loc>
+    <loc>http://skyingzz.github.io/2020/01/18/camlejson/</loc>
+    
+    <lastmod>2020-01-18T14:06:51.486Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://skyingzz.github.io/about/</loc>
+    
+    <lastmod>2020-01-18T13:41:21.180Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://skyingzz.github.io/links/</loc>
     
     <lastmod>2020-01-18T13:11:04.689Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/books/index.html</loc>
+    <loc>http://skyingzz.github.io/books/</loc>
     
     <lastmod>2020-01-18T12:30:56.610Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/repository/index.html</loc>
+    <loc>http://skyingzz.github.io/repository/</loc>
     
     <lastmod>2020-01-18T12:30:39.702Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2020-01-18T07:18:51.713Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://skyingzz.github.io/tags/</loc>
     
     <lastmod>2020-01-18T06:04:09.407Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://skyingzz.github.io/categories/</loc>
     
     <lastmod>2020-01-18T06:03:48.015Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/friends/index.html</loc>
+    <loc>http://skyingzz.github.io/friends/</loc>
     
     <lastmod>2020-01-18T06:03:26.910Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/01/18/hello-world/</loc>
+    <loc>http://skyingzz.github.io/2020/01/18/hello-world/</loc>
     
     <lastmod>2020-01-18T04:58:47.865Z</lastmod>
     

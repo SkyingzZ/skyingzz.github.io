@@ -1,25 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>cokezhang</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-01-18T04:58:47.865Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://skyingzz.github.io/"/>
+  <updated>2020-01-18T14:06:51.486Z</updated>
+  <id>http://skyingzz.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>cokezhang</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>把json中的key转化为驼峰式(首字母大写形式)</title>
+    <link href="http://skyingzz.github.io/2020/01/18/camlejson/"/>
+    <id>http://skyingzz.github.io/2020/01/18/camlejson/</id>
+    <published>2020-01-18T14:02:36.000Z</published>
+    <updated>2020-01-18T14:06:51.486Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近处理json数据，json中数据下划线形式，找了半天没有找到能把下划线处理成驼峰式的代码~ 自己动手！   &lt;/p&gt;
+&lt;p&gt;功能：把例如 “the_red_apple”:”very_nice” 转化为 “TheRedApple”:”very_nice” 这种。&lt;br&gt;代
+      
+    
+    </summary>
+    
+    
+    
+      <category term="json,c++,golang" scheme="http://skyingzz.github.io/tags/json-c-golang/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/01/18/hello-world/"/>
-    <id>http://yoursite.com/2020/01/18/hello-world/</id>
+    <link href="http://skyingzz.github.io/2020/01/18/hello-world/"/>
+    <id>http://skyingzz.github.io/2020/01/18/hello-world/</id>
     <published>2020-01-18T04:58:47.865Z</published>
     <updated>2020-01-18T04:58:47.865Z</updated>
     
