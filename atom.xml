@@ -42,22 +42,29 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://skyingzz.github.io/2020/01/18/hello-world/"/>
-    <id>http://skyingzz.github.io/2020/01/18/hello-world/</id>
-    <published>2020-01-18T04:58:47.865Z</published>
-    <updated>2020-01-18T04:58:47.865Z</updated>
+    <title>C++类的参数传递与返回值优化</title>
+    <link href="http://skyingzz.github.io/2018/12/03/cpp-param/"/>
+    <id>http://skyingzz.github.io/2018/12/03/cpp-param/</id>
+    <published>2018-12-03T12:18:54.000Z</published>
+    <updated>2020-01-18T15:31:14.966Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;类的成员变量要设置成私有  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;构造函数使用初始化列表来初始化变量  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;构造函数传递参数时，尽量使用如下形式，因为构造函数执行两件事情，初始化和赋值，而使用如下形式，则只执行了初始化操作，减少
       
     
     </summary>
     
     
+    
+      <category term="c++" scheme="http://skyingzz.github.io/tags/c/"/>
     
   </entry>
   
