@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://skyingzz.github.io/"/>
-  <updated>2020-01-18T15:09:32.757Z</updated>
+  <updated>2020-01-19T11:44:12.321Z</updated>
   <id>http://skyingzz.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>浅谈prometheus client golang</title>
+    <link href="http://skyingzz.github.io/2020/01/19/prometheus-client-go/"/>
+    <id>http://skyingzz.github.io/2020/01/19/prometheus-client-go/</id>
+    <published>2020-01-19T11:39:41.000Z</published>
+    <updated>2020-01-19T11:44:12.321Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;含类型精讲+接口示例+源码节选&lt;/p&gt;
+&lt;h2 id=&quot;Prometheus：&quot;&gt;&lt;a href=&quot;#Prometheus：&quot; class=&quot;headerlink&quot; title=&quot;Prometheus：&quot;&gt;&lt;/a&gt;Prometheus：&lt;/h2&gt;&lt;p&gt;prometheus是
+      
+    
+    </summary>
+    
+    
+      <category term="golang" scheme="http://skyingzz.github.io/categories/golang/"/>
+    
+      <category term="prometheus" scheme="http://skyingzz.github.io/categories/golang/prometheus/"/>
+    
+    
+      <category term="golang" scheme="http://skyingzz.github.io/tags/golang/"/>
+    
+      <category term="prometheus" scheme="http://skyingzz.github.io/tags/prometheus/"/>
+    
+      <category term="监控" scheme="http://skyingzz.github.io/tags/%E7%9B%91%E6%8E%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>把json中的key转化为驼峰式(首字母大写形式)</title>
