@@ -52,14 +52,14 @@
     <link href="http://skyingzz.github.io/2020/01/18/camlejson/"/>
     <id>http://skyingzz.github.io/2020/01/18/camlejson/</id>
     <published>2020-01-18T14:02:36.000Z</published>
-    <updated>2020-01-18T15:09:32.757Z</updated>
+    <updated>2020-05-07T03:52:27.889Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;最近处理json数据，json中数据下划线形式，找了半天没有找到能把下划线处理成驼峰式的代码~ 自己动手！   &lt;/p&gt;
-&lt;p&gt;功能：把例如 “the_red_apple”:”very_nice” 转化为 “TheRedApple”:”very_nice” 这种。&lt;br&gt;代
+        &lt;p&gt;最近处理json数据，json中Key转化为下划线形式，在网络上找了一段时间并没有找到可以实现功能的代码~ 自己动手！&lt;/p&gt;
+&lt;p&gt;功能：把例如 “the_red_apple”:”very_nice” 转化为 “TheRedApple”:”very_nice” 这种。&lt;/
       
     
     </summary>
